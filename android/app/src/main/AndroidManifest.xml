@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.infstones.bliss">
+    package="com.example.healthindex">
    <application
-        android:label="bliss"
+        android:label="healthindex"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

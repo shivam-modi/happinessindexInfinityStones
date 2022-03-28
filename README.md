@@ -1,6 +1,6 @@
-# bliss
+# healthindex
 
-A new Flutter project.
+A flutter project about student happiness index
 
 ## Getting Started
 
