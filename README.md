@@ -3,6 +3,15 @@
 A flutter project about student happiness index
 
 ## Getting Started
+Team Name: Infinity Stones
+ 
+Members:
+Prithesh Dwivedi
+Shivam Modi
+Dipanshu
+Hitendra Singh 
+harsh lohia
+Bhavna
 
 This project is a starting point for a Flutter application.
 
