@@ -22,7 +22,7 @@ This project is a starting point for a Flutter application.
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/shivam-modi/happinessindexInfinityStones
+https://github.com/shivam-modi/happinessindexInfinityStones.git
 ```
 
 **Step 2:**
